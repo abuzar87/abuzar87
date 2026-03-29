@@ -16,4 +16,3 @@ print("Hello everyone !")🤝🧑‍💻<br>I am a highly motivated final-year B
 [![](https://visitcount.itsvg.in/api?id=abuzar87&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://github-readme-stats.vercel.app/api?username=abuzar87)](https://github.com/abuzar87/github-readme-stats)
